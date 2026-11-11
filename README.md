@@ -2,7 +2,7 @@
 
 
 
-**Overview**
+##**Overview**
 
 
 
@@ -16,7 +16,7 @@ drug-resistance studies, it is not restricted to this organism.
 
 The pipeline performs the following analyses:
 
-1. **Read alignment:** Aligns paired-end WGS reads to a reference genome using Bowtie2 and generates BAM files.
+1\. **Read alignment:** Aligns paired-end WGS reads to a reference genome using Bowtie2 and generates BAM files.
 
 2\. **Copy number variation analysis:** Estimates gene and chromosome copy numbers from the aligned sequencing reads.
 
@@ -32,7 +32,7 @@ The pipeline includes detailed instructions within the script covering input fil
 
 
 
-**Workflow**
+##**Workflow**
 
 
 
@@ -48,7 +48,7 @@ The pipeline includes detailed instructions within the script covering input fil
 
 
 
-**Requirements (input files)**
+##**Requirements (input files)**
 
 
 
@@ -60,13 +60,13 @@ The pipeline includes detailed instructions within the script covering input fil
 
 4\. Excel templates:
 
-&#x20;   - Genome.xlsx - reference genome annotation template, included in this repository
+&#x20;   - Genomes.xlsx - reference genome annotation template, included in this repository
 
 &#x20;   - Variants.Template\_v10.2.1.xlsx - template file that results are written into, included in this repository
 
 
 
-**Output**
+##**Output**
 
 
 
@@ -85,7 +85,7 @@ Data output to the Excel results file:
 
 
 
-**Acknowledgements**
+##**Acknowledgements**
 
 
 
