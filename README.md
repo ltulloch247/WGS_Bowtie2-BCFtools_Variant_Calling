@@ -1,8 +1,8 @@
-**Whole-genome sequence data processing and variant calling pipeline**
+# **Whole-genome sequence data processing and variant calling pipeline**
 
 
 
-##**Overview**
+## **Overview**
 
 
 
@@ -32,7 +32,7 @@ The pipeline includes detailed instructions within the script covering input fil
 
 
 
-##**Workflow**
+## **Workflow**
 
 
 
@@ -48,7 +48,7 @@ The pipeline includes detailed instructions within the script covering input fil
 
 
 
-##**Requirements (input files)**
+## **Requirements (input files)**
 
 
 
@@ -66,7 +66,7 @@ The pipeline includes detailed instructions within the script covering input fil
 
 
 
-##**Output**
+## **Output**
 
 
 
@@ -85,7 +85,7 @@ Data output to the Excel results file:
 
 
 
-##**Acknowledgements**
+## **Acknowledgements**
 
 
 
