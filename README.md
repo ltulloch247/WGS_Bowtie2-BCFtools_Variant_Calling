@@ -89,5 +89,23 @@ Data output to the Excel results file:
 
 
 
-This pipeline was created at the University of Dundee thanks to funding from the Wellcome Trust
+This pipeline was developed at the University of Dundee with funding support from the Wellcome Trust.
 
+We thank Dr Michele Tinti for his valuable advice and guidance on various aspects of the WGS analysis pipeline.
+
+
+
+## Authors
+
+- **Lindsay B. Tulloch**
+- **Susan Wyllie**
+
+University of Dundee, UK.
+
+
+
+## Citation
+
+If you use this pipeline in published research, please cite:
+
+Tulloch, L. B., & Wyllie, S. (2026). WGS Bowtie2–BCFtools Variant Calling (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24135241
